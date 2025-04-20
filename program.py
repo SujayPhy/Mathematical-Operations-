@@ -1,27 +1,10 @@
-print( " I love Bijni Collage ")
-
-
-x=5        #value of X
-y="Sujay" #Declearation of variavble of Y
-print(" value of x" ,x) #print the4 value of X
-
-x= "sarkar"
-print("My name is sujay ", x )
-
-x=5
-y=6.8
-z="I Am Sujay"
-print(type(y))
-print(type(x))
-print(type(z))
-
-# PYTHON PROGRAM TO GENERATE VALUE OF π"""
+# PYTHON PROGRAM TO GENERATE VALUE OF π
 
 #Import from  library
 import math
 print("The Value of π is", math.pi)
 
-# Programme to find the volume of sphere"""
+# Programme to find the volume of sphere
 
 import math
 π = math.pi
@@ -29,7 +12,7 @@ R = 50 #Radias of the sphere is 50 cm
 V = (4/3) * π * R * R * R  #V=volume of sphere
 print("Volume of the given sphere ", V )
 
-# Programme to find Area of Circle"""
+# Programme to find Area of Circle
 
 import math
 π = math.pi
@@ -37,7 +20,7 @@ r = 27
 A = π*r*r
 print (" Area of the given circle is" ,A)
 
-# Programme to find the Area of a square"""
+# Programme to find the Area of a square
 
 
 
@@ -46,7 +29,7 @@ side = float (input("Enter Value of side of the aquare:"))
 A = side*side
 print(" Area of the square is", A)
 
-# Program to find the Sum and average of a list of numbers"""
+# Program to find the Sum and average of a list of numbers
 
 n=int(input("Enter the number of list: "))
 a=[]
